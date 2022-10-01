@@ -9,7 +9,7 @@ pub fn footer() -> Html {
                     <li><a href="https://www.facebook.com/stanley.yuuto/" class="text-muted">{"facebook"}</a></li>
                     <li><a href="https://www.instagram.com/alk.neq.me/" class="text-muted">{"instagram"}</a></li>
                     <li><a href="https://github.com/alk-neq-me" class="text-muted">{"github"}</a></li>
-                    <li><a href="facebook.com" class="text-muted">{"source ⚙️"}</a></li>
+                    <li><a href="https://github.com/alk-neq-me/card" class="text-muted">{"source ⚙️"}</a></li>
                 </ul>
             </div>
         
