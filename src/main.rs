@@ -16,12 +16,15 @@ fn app() -> Html {
 
                 <Header />
         
-                <Button title="Go to my Portfolio" />
+                <Button title="Go to my new portfolio" />
         
                 <p class="text-muted">{"I'm available for "}
                 <a style="color: orange;font-family: cursive;font-size: 1.3rem;" href="mailto: toyko2001@gmail.com">{"freelance."}</a></p>
         
                 <Footer />
+        
+                <p class="endline mt-5">{"© 2022 Aung Lynn Khant. All Rights Reserved"}<br />
+                {"Privacy Policy"}</p>
             </div>
         </div>
     }
